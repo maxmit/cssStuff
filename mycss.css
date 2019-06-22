@@ -1,0 +1,96 @@
+
+/*body background color of website*/
+body {
+    background-color: black;
+    font-family: Arial, serif, sans-serif;
+	color: lightgreen;
+	margin: 0;
+}
+
+
+/*body background image of website
+body {
+    background-image: url(BigGreenScreen.png);
+    background-color: black;
+    font-family: Arial, serif, sans-serif;
+	color: lightgreen;
+	margin: 0;
+}
+*/
+
+/*regular link -> nav*/
+a:link {
+    color: yellow;
+	/*display: block;*/
+    text-decoration: none;
+    position: relative;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+a:hover {
+    color: red;
+}
+
+/*content area*/
+#content {
+    text-align: center;
+}
+
+/*content area on about us page*/
+#contentU {
+    text-align: left;
+    color: red; 
+}
+
+/*content area on contact page*/
+#contentC {
+    text-align: right;
+    color: gold; 
+}
+
+/*center the picture of penguin*/
+img {
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
+    width: 25%
+}
+
+/*bottom of the website page named footer*/
+#footer {
+    background: yellow;
+	color: darkgreen;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
